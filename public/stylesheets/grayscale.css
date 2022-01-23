@@ -168,16 +168,16 @@
 }
 
 .btn-primary:hover {
-  background-color: #b875ab;
+  background-color: #898F9C;
 }
 
 .btn-primary:focus {
-  background-color: #b875ab;
+  background-color: #898F9C;
   color: white;
 }
 
 .btn-primary:active {
-  background-color: #904d83 !important;
+  background-color: #898F9C !important;
 }
 
 .about-section {
@@ -290,17 +290,17 @@
 
 .contact-section .social a {
   text-align: center;
-  /* variant of color: #b875ab; */
+  /* variant of color: #898F9C; */
 }
 
 .contact-section .social a:hover {
-   /* variant of color: #b875ab; */
-    color: #b474a7;
+   /* variant of color: #898F9C; */
+    color: #8c929e;
 }
 
 .contact-section .social a:active {
-   /* variant of color: #b875ab; */
-   color: #97628c;
+   /* variant of color: #898F9C; */
+   color: #8990a0;
 }
 
 body {
@@ -314,7 +314,7 @@ a {
 
 a:focus, a:hover {
   text-decoration: none;
-  color: #b875ab;
+  color: #898F9C;
 }
 
 .bg-black {
